@@ -65,3 +65,8 @@ docker-compose up --build
 npm install
 npm run start:dev
 ```
+
+### API Docs
+```bash
+http://localhost:3000/api/docs
+```
